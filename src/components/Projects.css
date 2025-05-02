@@ -1,0 +1,31 @@
+/* Projects Section Styles */
+.projects {
+    margin-bottom: 60px;
+    background-color: #fff;
+    padding: 3rem 2rem;
+    margin: 0 auto;
+    /* Center the section horizontally */
+}
+
+.projects-title-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom: 30px;
+    font-size: 2.2rem;
+    color: #333;
+    font-weight: 600;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .projects {
+        width: 90%;
+        /* Set width to 90% for smaller screens */
+    }
+
+    .projects-title-wrapper {
+        font-size: 1.8rem;
+    }
+}

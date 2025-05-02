@@ -1,0 +1,127 @@
+.project-card {
+    width: 70%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-height: 400px;
+}
+
+.project-card.reverse {
+    grid-template-columns: 1fr 1fr;
+}
+
+.project-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.project-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.project-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    height: 100%;
+}
+
+.project-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.tech-used {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tech-used span {
+    padding: 0.3rem 0.7rem 0.3rem 0rem;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.project-description {
+    font-size: 1.7rem;
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+.project-description li {
+    margin-bottom: 0.8rem;
+}
+
+.project-links {
+    margin-top: auto;
+    margin-bottom: 2rem;
+    /* Ensure the links are pushed to the bottom */
+}
+
+.project-links a {
+    margin-right: 1rem;
+    color: #007bff;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+
+
+.project-links a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+    .project-card {
+        grid-template-columns: 1fr;
+        width: 95%;
+        text-align: center;
+    }
+
+    .project-card.reverse {
+        grid-template-columns: 1fr;
+    }
+
+        .project-title {
+            font-size: 1.4rem;
+        }
+
+        .project-links a{
+            font-size: 1.2rem;
+        }
+
+        .tech-used span {
+            font-size: 1.3rem;
+        }
+
+        .project-description {
+            font-size: 1.3rem;
+        }
+    
+        .project-image {
+            grid-row: 1;
+        }
+
+        .tech-used {
+            justify-content: center;
+        }
+}

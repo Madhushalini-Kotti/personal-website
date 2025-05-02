@@ -1,0 +1,27 @@
+/* Education Section Styles */
+.education {
+    margin-bottom: 60px;
+    background-color: #f4f4f4;
+    padding: 3rem 2rem;
+    width: 100%;
+    
+}
+
+.education-title-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom: 30px;
+    font-size: 2.2rem;
+    color: #333;
+    font-weight: 600;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+
+    .education-title-wrapper {
+        font-size: 1.8rem;
+    }
+}
