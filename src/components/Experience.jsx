@@ -28,7 +28,7 @@ function Experience() {
         <Card 
           title="Software Engineer Intern" 
           company="Physics Wallah" 
-          duration="March 2022 – December 2022" 
+          duration="March 2021 – December 2022" 
           description="Developed and maintained full-stack features for the EdTech platform using React and Node.js, improving course content delivery speed by 35%. Implemented reusable UI components with Tailwind CSS and optimized backend APIs to handle a 20% increase in student traffic. Collaborated closely with QA and product teams to resolve bugs and enhance user experience." 
           imageUrl="/assets/pw-logo.png" 
         />
