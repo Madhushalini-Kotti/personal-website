@@ -71,7 +71,7 @@ function Contact() {
             </div>
             <div className="contact-info">
               <p className="contact-title">Email</p>
-              <a href="mailto:madhushalinikotti@gmail.com" className="contact-link">madhushalinikotti@gmail.com</a>
+              <a href="mailto:madhushalinireddyk@gmail.com" className="contact-link">madhushalinireddyk@gmail.com</a>
             </div>
           </li>
 
@@ -81,7 +81,7 @@ function Contact() {
             </div>
             <div className="contact-info">
               <p className="contact-title">Phone</p>
-              <a href="tel:+5618751855" className="contact-link">+1 (561) 887-8918</a>
+              <a href="tel:+5612994525" className="contact-link">+1 (561) 299-4525</a>
             </div>
           </li>
 
