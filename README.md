@@ -75,7 +75,7 @@ I'm actively looking for full-time opportunities in:
 **Full Stack, Frontend, Backend, or Cloud Engineering roles**
 
 - 📍 Based in Florida — Open to opportunities across the U.S. including **Remote**, **Hybrid**, or **On-site** roles 
-- 📧 madhushalinikotti@gmail.com
+- 📧 madhushalinireddyk@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/madhushalinikotti/)
 - 💻 [GitHub](https://github.com/Madhushalini-Kotti)
 
