@@ -1,6 +1,6 @@
 # 🌐 Madhushalini Kotti – Portfolio
 
-Hi, I’m Madhushalini Kotti — a Full Stack Software Developer with 3+ years of experience in building secure, scalable, and cloud-native applications. I recently completed my Master’s in Computer Science from Florida Atlantic University (GPA: 3.81) and am actively seeking full-time opportunities in Software Development.
+Hi, I’m Madhushalini Kotti — a Full Stack Software Developer with 3+ years of experience in building secure, scalable, and cloud-native applications. I recently completed my Master’s in Computer Science from Florida Atlantic University (GPA: 3.83) and am actively seeking full-time opportunities in Software Development.
 
 ---
 
